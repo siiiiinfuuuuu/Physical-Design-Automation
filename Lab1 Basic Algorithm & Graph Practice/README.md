@@ -11,5 +11,7 @@ Run code
 	make
 2.execute code: 
 	./Lab1 [input]
-3.For shortest path problem, output is "short.txt"
-4.For Max Flow Min Cut Problem, output is "max.txt"
+
+3. For shortest path problem, output is "short.txt"
+
+4. For Max Flow Min Cut Problem, output is "max.txt"
